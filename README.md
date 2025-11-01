@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sathsarajayantha01/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sathsarajayantha8@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sathsarajayantha01/)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/sathsarajayantha1)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/sathsarjayanth1)
 [![Profile Views](https://komarev.com/ghpvc/?username=clyuu&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/sathsarajayantha01)
 
 **Contact:** +94 789 501 781 | Yakkalamulla, Galle, Sri Lanka.
@@ -154,7 +154,7 @@ Developed "Velvet Vogue," a responsive PHP + MySQL e-commerce site with user aut
 **Professional Networks:**
 - [LinkedIn](https://www.linkedin.com/in/sathsarajayantha01/)
 - [GitHub](https://github.com/sathsarajayantha01/)
-- [Behance](https://www.behance.net/sathsarajayantha1)
+- [Behance](https://www.behance.net/sathsarjayanth1)
 
 **Social Media:**
 - [Instagram](https://instagram.com/sathsarajayantha01/)
