@@ -8,7 +8,7 @@
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white)](https://www.behance.net/sathsarajayantha1)
 [![Profile Views](https://komarev.com/ghpvc/?username=clyuu&label=Profile%20Views&color=0e75b6&style=flat-square)](https://github.com/sathsarajayantha01)
 
-**Contact:** +94 789 501 781 | Beranugodawatta, Beranigodawila, Taksiarimulla
+**Contact:** +94 789 501 781 | Yakkalamulla, Galle, Sri Lanka.
 
 ---
 
@@ -108,13 +108,13 @@ Developed "Velvet Vogue," a responsive PHP + MySQL e-commerce site with user aut
 
 | **Overall Stats** | **Most Used Languages** |
 |:---:|:---:|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clyuu&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clyuu&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sathsarajayantha01&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sathsarajayantha01&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9) |
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=clyuu&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=58a6ff&sideNums=58a6ff)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sathsarajayantha01&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=58a6ff&sideNums=58a6ff)
 
 </div>
 
@@ -168,7 +168,7 @@ Developed "Velvet Vogue," a responsive PHP + MySQL e-commerce site with user aut
 
 **📈 Contribution Timeline**
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=clyuu&theme=github-dark-dimmed&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sathsarajayantha01&theme=github-dark-dimmed&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff)
 
 </div>
 
@@ -176,7 +176,7 @@ Developed "Velvet Vogue," a responsive PHP + MySQL e-commerce site with user aut
 
 ### 🏆 GitHub Profile Summary
 
-[![Profile Summary for Induwara](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=clyuu&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![Profile Summary for Sathsara](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sathsarajayantha01&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 </div>
 
@@ -184,7 +184,7 @@ Developed "Velvet Vogue," a responsive PHP + MySQL e-commerce site with user aut
 
 | **Productive Time** | **Most Used Languages** |
 |:---:|:---:|
-| [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=clyuu&theme=github_dark&utc_offset=5.5)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=clyuu&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| [![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sathsarajayantha01&theme=github_dark&utc_offset=5.5)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sathsarajayantha01&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
 
 </div>
 
@@ -192,7 +192,7 @@ Developed "Velvet Vogue," a responsive PHP + MySQL e-commerce site with user aut
 
 <div align="center">
 
-![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=clyuu&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=sathsarajayantha01&limit=5&theme=dark&combine_all_yearly_contributions=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 </div>
 
